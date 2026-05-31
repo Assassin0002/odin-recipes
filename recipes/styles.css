@@ -1,10 +1,16 @@
 
+h1{
+    text-align: center;
+}
 .heading{
-    margin-left: 550px;
+    align-items:center;
+    margin-left: 800px;
     border: 2px solid black;
-    padding: 2px 20px;
+    width: 940px;
 }
 img{
+    padding-left: 350px;
+    padding-right: 350px;
     width: 250px;
     height:auto;
 }
@@ -13,7 +19,8 @@ img{
     margin-top: 10px;
     padding: 20px;
     padding-top: -20px;
-    margin-left: 550px;
+    margin-left: 800px;
+    width: 900px;
 }
 .desc{
     color: red;
