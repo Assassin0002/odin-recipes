@@ -10,4 +10,5 @@ Creating a Recipes project for learning through the Odin Project.
  - Linking of images and relative links
  - Utilization of UL and OL lists
  - Utilization of GIT
-
+## Deployed Page
+   https://assassin0002.github.io/odin-recipes/
